@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Denise Bradford’s Website",
+    "section": "",
+    "text": "Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email"
+  },
+  {
+    "objectID": "resume/index.html",
+    "href": "resume/index.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download current Resume"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "JDSS Publication | Code\nMany small and rural places are shrinking. Interactive dashboards are the most common use cases for data visualization and context for exploratory data tools. In our paper, we will explore the specific scope of how dashboards are used in small and rural area to empower novice analysts to make data-driven decisions. Our framework will suggest a number of research directions to better support small and rural places from shrinking using an interactive dashboard design, implementation and use for the every day analyst."
+  },
+  {
+    "objectID": "projects/index.html#the-languages-of-middle-earth",
+    "href": "projects/index.html#the-languages-of-middle-earth",
+    "title": "Projects",
+    "section": "",
+    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+  },
+  {
+    "objectID": "projects/index.html#the-history-of-the-war-of-the-ring",
+    "href": "projects/index.html#the-history-of-the-war-of-the-ring",
+    "title": "Projects",
+    "section": "The History of the War of the Ring",
+    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved."
+  },
+  {
+    "objectID": "projects/index.html#nfl-injury-project-using-sem-structural-equation-modeling",
+    "href": "projects/index.html#nfl-injury-project-using-sem-structural-equation-modeling",
+    "title": "Projects",
+    "section": "NFL Injury Project (using SEM: Structural Equation Modeling)",
+    "text": "NFL Injury Project (using SEM: Structural Equation Modeling)\n\nCode\nThis project explores relationships between injury occurrences, player positions, and performance metrics, employing SEM to quantify direct and indirect effects on injuries. The research emphasizes the analytical benefits of SEM for understanding complex injury dynamics in professional football, potentially informing injury prevention and management strategies."
+  },
+  {
+    "objectID": "projects/index.html#are-you-my-brother-identifying-nba-teams-who-use-their-g-league-affiliate-strategically",
+    "href": "projects/index.html#are-you-my-brother-identifying-nba-teams-who-use-their-g-league-affiliate-strategically",
+    "title": "Projects",
+    "section": "Are You My Brother?: Identifying NBA Teams Who Use Their G-League Affiliate Strategically",
+    "text": "Are You My Brother?: Identifying NBA Teams Who Use Their G-League Affiliate Strategically\n\nCode\nThis study compares the playing styles of NBA teams and their affiliated G-League teams. Specifically, it examines whether the developmental teams follow the same strategic approaches as their parent organizations. The G-League is becoming increasingly important for developing players and finding new ones. Understanding the alignment in playing styles across different levels can help foster organizational cohesion and enhance player growth and readiness."
+  },
+  {
+    "objectID": "projects/index.html#exploring-rural-shrink-smart-through-guided-discovery-dashboards",
+    "href": "projects/index.html#exploring-rural-shrink-smart-through-guided-discovery-dashboards",
+    "title": "Projects",
+    "section": "",
+    "text": "JDSS Publication | Code\nMany small and rural places are shrinking. Interactive dashboards are the most common use cases for data visualization and context for exploratory data tools. In our paper, we will explore the specific scope of how dashboards are used in small and rural area to empower novice analysts to make data-driven decisions. Our framework will suggest a number of research directions to better support small and rural places from shrinking using an interactive dashboard design, implementation and use for the every day analyst."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Denise Bradford’s Website",
+    "section": "Education",
+    "text": "Education\nUniversity of Nebraska, Lincoln | Lincoln, NE\nPhD in Statistics | Aug 2020 - Present\nUniversity of Nebraska, Lincoln | Lincoln, NE\nM.S in Statistics | Aug 2018 - May 2020\nPurdue University | West Lafayette, IN\nM.S in Applied Statistics | Dec 2010 - May 2012\nPurdue University | West Lafayette, IN\nB.S in Applied Statistics | Aug 2004 - Dec 2008"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Denise Bradford’s Website",
+    "section": "Experience",
+    "text": "Experience\nDetroit Pistons | Senior Data Scientist | December 2022 - August 2024\nPhiladelphia 76ers | Data Scientist | June 2022 - December 2022\nNebraska Athletics Performance Lab | Sports Analytics Assistant | June 2021 - May 2022\nHudl | Data Analyst Intern | June 2019 - June 2021\nPlease feel free to contact me if you have any questions or would like to discuss potential projects.\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Denise Bradford’s Website",
+    "section": "Welcome",
+    "text": "Welcome\nMy name is Denise Bradford, a doctoral candidate in Statistics at the University of Nebraska-Lincoln, specializing in data science, statistical modeling, and analytics within sports and public health sectors. My professional experience includes roles as a Senior Data Scientist with the Detroit Pistons and Data Scientist with the Philadelphia 76ers, where I’ve developed sophisticated data pipelines, analytical dashboards, and predictive models to enhance team strategies. Previously, I’ve served as a Health Statistician at the CDC, contributing innovative methodologies for adolescent health research. I actively publish in statistical journals, contribute to academic conferences, and supports analytics communities through my leadership roles in the American Statistical Association."
+  },
+  {
+    "objectID": "presentations/index.html",
+    "href": "presentations/index.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "In my presentations, I’ve explored topics ranging from effective dashboard design in collegiate sports to leveraging geospatial analytics and public data for community decision-making. I enjoy translating complex statistical insights into practical strategies, making data-driven methodologies accessible and actionable."
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world."
+  }
+]

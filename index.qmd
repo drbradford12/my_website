@@ -1,0 +1,63 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: img/profile_pic.jpeg
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/DeniseRBradford
+    - icon: github
+      text: Github
+      href: https://github.com/drbradford12
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/denise-b-233b4025/
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.deniserbradford@gmail.com"  
+---
+
+::: {#about-block}
+:::
+
+## Welcome 
+
+My name is Denise Bradford, a doctoral candidate in Statistics at the University of Nebraska-Lincoln, specializing in data science, statistical modeling, and analytics within sports and public health sectors. My professional experience includes roles as a Senior Data Scientist with the Detroit Pistons and Data Scientist with the Philadelphia 76ers, where I've developed sophisticated data pipelines, analytical dashboards, and predictive models to enhance team strategies. Previously, I've served as a Health Statistician at the CDC, contributing innovative methodologies for adolescent health research. I actively publish in statistical journals, contribute to academic conferences, and supports analytics communities through my leadership roles in the American Statistical Association.
+
+## Education
+
+**University of Nebraska, Lincoln** | Lincoln, NE
+
+PhD in Statistics | Aug 2020 - Present
+
+**University of Nebraska, Lincoln** | Lincoln, NE
+
+M.S in Statistics | Aug 2018 - May 2020
+
+**Purdue University** | West Lafayette, IN
+
+M.S in Applied Statistics | Dec 2010 - May 2012
+
+**Purdue University** | West Lafayette, IN
+
+B.S in Applied Statistics | Aug 2004 - Dec 2008
+
+## Experience
+
+**Detroit Pistons** | Senior Data Scientist | December 2022 - August 2024
+
+**Philadelphia 76ers** | Data Scientist |  June 2022 - December 2022
+
+**Nebraska Athletics Performance Lab** | Sports Analytics Assistant |  June 2021 - May 2022
+
+**Hudl** | Data Analyst Intern |  June 2019 - June 2021
+
+Please feel free to [contact me](mailto:mail.deniserbradford@gmail.com) if you have any questions or would like to discuss potential projects.
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
+

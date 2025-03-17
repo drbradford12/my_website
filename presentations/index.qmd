@@ -1,0 +1,6 @@
+---
+title: "Presentations"
+---
+
+In my presentations, I've explored topics ranging from effective dashboard design in collegiate sports to leveraging geospatial analytics and public data for community decision-making. I enjoy translating complex statistical insights into practical strategies, making data-driven methodologies accessible and actionable.
+
