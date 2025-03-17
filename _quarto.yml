@@ -17,6 +17,8 @@ website:
         href: presentations/index.qmd
       - text: "Resume"
         href: resume/index.qmd
+      - text: "About"
+        href: about.qmd
 
         # your social media handles
     right:
