@@ -11,8 +11,8 @@ website:
     left:
       - text: "Projects"
         href: projects/index.qmd
-      - text: "Publications"
-        href: publications/index.qmd
+      #- text: "Publications"
+      #  href: publications/index.qmd
       - text: "Presentations"
         href: presentations/index.qmd
       - text: "Resume"
