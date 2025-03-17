@@ -12,4 +12,35 @@ When I'm not busy with work or school, I love watching sports, especially basket
 
 
 For further information, visit my [GitHub projects](https:// github.com/drbradford12) or view my whole [resume here](https://drbradford12.github.io/my_website/resume/).
+Please feel free to [contact me](mailto:mail.deniserbradford@gmail.com) if you have any questions or would like to discuss potential projects.
+
+## Education
+
+**University of Nebraska, Lincoln** | Lincoln, NE
+
+PhD in Statistics | Aug 2020 - Present
+
+**University of Nebraska, Lincoln** | Lincoln, NE
+
+M.S in Statistics | Aug 2018 - May 2020
+
+**Purdue University** | West Lafayette, IN
+
+M.S in Applied Statistics | Dec 2010 - May 2012
+
+**Purdue University** | West Lafayette, IN
+
+B.S in Applied Statistics | Aug 2004 - Dec 2008
+
+## Experience
+
+**Detroit Pistons** | Senior Data Scientist | December 2022 - August 2024
+
+**Philadelphia 76ers** | Data Scientist |  June 2022 - December 2022
+
+**Nebraska Athletics Performance Lab** | Sports Analytics Assistant |  June 2021 - May 2022
+
+**Hudl** | Data Analyst Intern |  June 2019 - June 2021
+
+
 

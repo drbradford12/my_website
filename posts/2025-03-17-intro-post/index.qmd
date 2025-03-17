@@ -1,0 +1,15 @@
+---
+title: "Welcome to my blog!"
+description: "Working on new techniques in the field of data science, statistics, and data engineering"
+author:
+  - name: Denise Bradford
+    url: https://drbradford12.github.io/my_website
+    orcid: 0000-0002-9267-105X
+    affiliation: PhD of Statistics @ University of Nebraska-Lincoln (UNL)
+    affiliation-url: https://statistics.unl.edu/ 
+date: 2025-03-17
+categories: [Quarto, R] # self-defined categories
+citation: 
+  url: https://drbradford12.github.io/my_website/posts/2025-03-17-intro-post/
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---

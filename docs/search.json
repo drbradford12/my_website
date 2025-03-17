@@ -81,6 +81,34 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "More about Denise Bradford\nMy academic work emphasizes interactive dashboards, open-source data access, analytical tools catered for sports analytics and community decision-making. Under a National Science Foundation project on “Smart Decision-Making in Small and Shrinking Rural Areas,” I have particularly focused on clean, open-source data creation using web scraping and geospatial analysis. Studies addressing geographic analytics, predictive modeling, and interactive dashboard design have also been published in peer-reviewed publications.\nBeyond research, I love to teach and have led seminars on programming in R, statistical modeling, and tidy data techniques. By always striving to make statistical methods accessible, useful, and actionable, I hope to close the gap between scholarly theory and actual applications.\nWhen I’m not busy with work or school, I love watching sports, especially basketball and football. I’m the Communications Chair for the Statistics in Sports Section of the American Statistical Association (ASA) and along with the Finance Chair for Revitalize Our Communities (ROC). You can usually catch me creating cool structures with magnet tiles with my nieces and nephews.\nFor further information, visit my GitHub projects or view my whole resume here."
+    "text": "My academic work emphasizes interactive dashboards, open-source data access, analytical tools catered for sports analytics and community decision-making. Under a National Science Foundation project on “Smart Decision-Making in Small and Shrinking Rural Areas,” I have particularly focused on clean, open-source data creation using web scraping and geospatial analysis. Studies addressing geographic analytics, predictive modeling, and interactive dashboard design have also been published in peer-reviewed publications.\nBeyond research, I love to teach and have led seminars on programming in R, statistical modeling, and tidy data techniques. By always striving to make statistical methods accessible, useful, and actionable, I hope to close the gap between scholarly theory and actual applications.\nWhen I’m not busy with work or school, I love watching sports, especially basketball and football. I’m the Communications Chair for the Statistics in Sports Section of the American Statistical Association (ASA) and along with the Finance Chair for Revitalize Our Communities (ROC). You can usually catch me creating cool structures with magnet tiles with my nieces and nephews.\nFor further information, visit my GitHub projects or view my whole resume here. Please feel free to contact me if you have any questions or would like to discuss potential projects.\n\n\nUniversity of Nebraska, Lincoln | Lincoln, NE\nPhD in Statistics | Aug 2020 - Present\nUniversity of Nebraska, Lincoln | Lincoln, NE\nM.S in Statistics | Aug 2018 - May 2020\nPurdue University | West Lafayette, IN\nM.S in Applied Statistics | Dec 2010 - May 2012\nPurdue University | West Lafayette, IN\nB.S in Applied Statistics | Aug 2004 - Dec 2008\n\n\n\nDetroit Pistons | Senior Data Scientist | December 2022 - August 2024\nPhiladelphia 76ers | Data Scientist | June 2022 - December 2022\nNebraska Athletics Performance Lab | Sports Analytics Assistant | June 2021 - May 2022\nHudl | Data Analyst Intern | June 2019 - June 2021"
+  },
+  {
+    "objectID": "posts/2025-03-17-intro-post/index.html",
+    "href": "posts/2025-03-17-intro-post/index.html",
+    "title": "Welcome to my blog!",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{bradford2025,\n  author = {Bradford, Denise},\n  title = {Welcome to My Blog!},\n  date = {2025-03-17},\n  url = {https://drbradford12.github.io/my_website/posts/2025-03-17-intro-post/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nBradford, Denise. 2025. “Welcome to My Blog!” March 17,\n2025. https://drbradford12.github.io/my_website/posts/2025-03-17-intro-post/."
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Working On It….",
+    "section": "",
+    "text": "Welcome to my blog!\n\n\n\n\n\n\nQuarto\n\n\nR\n\n\n\nWorking on new techniques in the field of data science, statistics, and data engineering\n\n\n\n\n\nMar 17, 2025\n\n\nDenise Bradford\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "University of Nebraska, Lincoln | Lincoln, NE\nPhD in Statistics | Aug 2020 - Present\nUniversity of Nebraska, Lincoln | Lincoln, NE\nM.S in Statistics | Aug 2018 - May 2020\nPurdue University | West Lafayette, IN\nM.S in Applied Statistics | Dec 2010 - May 2012\nPurdue University | West Lafayette, IN\nB.S in Applied Statistics | Aug 2004 - Dec 2008"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "",
+    "text": "Detroit Pistons | Senior Data Scientist | December 2022 - August 2024\nPhiladelphia 76ers | Data Scientist | June 2022 - December 2022\nNebraska Athletics Performance Lab | Sports Analytics Assistant | June 2021 - May 2022\nHudl | Data Analyst Intern | June 2019 - June 2021"
   }
 ]

@@ -1,10 +1,6 @@
 website:
   title: "Denise Bradford’s Website"
   navbar:
-    # left:
-    #   - href: index.qmd
-    #     text: Home
-    #   - about.qmd
 # start of the navigation bar at the top of the website
     pinned: true
 # your sub-pages
@@ -17,6 +13,8 @@ website:
         href: presentations/index.qmd
       - text: "Resume"
         href: resume/index.qmd
+      - text: "Posts"
+        href: posts/index.qmd
       - text: "About"
         href: about.qmd
 
@@ -49,8 +47,8 @@ format:
   html:
     fontsize: 1.1em
     theme:
-      - pulse
-      - html/styles.scss
+        light: minty
+        dark: [minty, html/theme-dark.scss]
     toc: false
     code-link: true
     anchor-sections: true
