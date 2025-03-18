@@ -22,13 +22,13 @@ website:
     right:
       - icon: github
         href: https://github.com/drbradford12
-      - icon: twitter
-        href: https://x.com/DeniseRBradford
       - icon: linkedin
         href: https://www.linkedin.com/in/denise-b-233b4025/
       - icon: envelope
         aria-label: email
         href: "mailto:mail.deniserbradford@gmail.com"
+      - icon: twitter
+        href: https://x.com/DeniseRBradford
 
 project:
   type: website
@@ -45,6 +45,7 @@ execute:
 
 format:
   html:
+    smooth-scroll: true
     fontsize: 1.1em
     theme:
         light: minty

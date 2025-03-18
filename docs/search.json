@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Denise Bradford’s Website",
     "section": "",
-    "text": "Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email"
+    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n  \n    \n     Twitter"
   },
   {
     "objectID": "index.html#welcome",
@@ -39,7 +39,7 @@
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "JDSS Publication | Code\nMany small and rural places are shrinking. Interactive dashboards are the most common use cases for data visualization and context for exploratory data tools. In our paper, we will explore the specific scope of how dashboards are used in small and rural area to empower novice analysts to make data-driven decisions. Our framework will suggest a number of research directions to better support small and rural places from shrinking using an interactive dashboard design, implementation and use for the every day analyst."
+    "text": "Student performance statistics is shown on the Instructors Dashboard found at the given Shiny link below. It features a Student Table showing question-level performance, a Tough Questions portion stressing challenging topics, and a Score Histogram to help one view score distributions. Targeting performance analysis, instructors can select data by Test Period (Pre-Test/Post-Test), Test Subject (English, Math, Science, Reading), and Student Name.\nInstructor’s Dashboard\nStudent’s Dashboard\n\n\n\nThe following links of Shiny web applications related completed with Nebraska Athletics Department, specifically football, men’s and women’s basketball. However, accessing these applications requires user authentication, and without valid credentials.\nFootball Dashbaord Scouting\nMen’s Basketball Scouting\nWomen’s Basketball - Postgame Reports"
   },
   {
     "objectID": "projects/index.html#exploring-rural-shrink-smart-through-guided-discovery-dashboards",
@@ -81,7 +81,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "My academic work emphasizes interactive dashboards, open-source data access, analytical tools catered for sports analytics and community decision-making. Under a National Science Foundation project on “Smart Decision-Making in Small and Shrinking Rural Areas,” I have particularly focused on clean, open-source data creation using web scraping and geospatial analysis. Studies addressing geographic analytics, predictive modeling, and interactive dashboard design have also been published in peer-reviewed publications.\nBeyond research, I love to teach and have led seminars on programming in R, statistical modeling, and tidy data techniques. By always striving to make statistical methods accessible, useful, and actionable, I hope to close the gap between scholarly theory and actual applications.\nWhen I’m not busy with work or school, I love watching sports, especially basketball and football. I’m the Communications Chair for the Statistics in Sports Section of the American Statistical Association (ASA) and along with the Finance Chair for Revitalize Our Communities (ROC). You can usually catch me creating cool structures with magnet tiles with my nieces and nephews.\nFor further information, visit my GitHub projects or view my whole resume here. Please feel free to contact me if you have any questions or would like to discuss potential projects.\n\n\nUniversity of Nebraska, Lincoln | Lincoln, NE\nPhD in Statistics | Aug 2020 - Present\nUniversity of Nebraska, Lincoln | Lincoln, NE\nM.S in Statistics | Aug 2018 - May 2020\nPurdue University | West Lafayette, IN\nM.S in Applied Statistics | Dec 2010 - May 2012\nPurdue University | West Lafayette, IN\nB.S in Applied Statistics | Aug 2004 - Dec 2008\n\n\n\nDetroit Pistons | Senior Data Scientist | December 2022 - August 2024\nPhiladelphia 76ers | Data Scientist | June 2022 - December 2022\nNebraska Athletics Performance Lab | Sports Analytics Assistant | June 2021 - May 2022\nHudl | Data Analyst Intern | June 2019 - June 2021"
+    "text": "My academic work emphasizes interactive dashboards, open-source data access, analytical tools catered for sports analytics and community decision-making. Under a National Science Foundation project on “Smart Decision-Making in Small and Shrinking Rural Areas,” I have particularly focused on clean, open-source data creation using web scraping and geospatial analysis. Studies addressing geographic analytics, predictive modeling, and interactive dashboard design have also been published in peer-reviewed publications.\nBeyond research, I love to teach and have led seminars on programming in R, statistical modeling, and tidy data techniques. By always striving to make statistical methods accessible, useful, and actionable, I hope to close the gap between scholarly theory and actual applications.\nWhen I’m not busy with work or school, I love watching sports, especially basketball and football. I’m the Communications Chair for the Statistics in Sports Section of the American Statistical Association (ASA) and along with the Finance Chair for Revitalize Our Communities (ROC). You can usually catch me creating cool structures with magnet tiles with my nieces and nephews.\nFor further information, visit my GitHub projects or view my resume here. Please feel free to contact me if you have any questions or would like to discuss potential projects.\n\n\nUniversity of Nebraska, Lincoln | Lincoln, NE\nPhD in Statistics | Aug 2020 - Present\nUniversity of Nebraska, Lincoln | Lincoln, NE\nM.S in Statistics | Aug 2018 - May 2020\nPurdue University | West Lafayette, IN\nM.S in Applied Statistics | Dec 2010 - May 2012\nPurdue University | West Lafayette, IN\nB.S in Applied Statistics | Aug 2004 - Dec 2008\n\n\n\nDetroit Pistons | Senior Data Scientist | December 2022 - August 2024\nPhiladelphia 76ers | Data Scientist | June 2022 - December 2022\nNebraska Athletics Performance Lab | Sports Analytics Assistant | June 2021 - May 2022\nHudl | Data Analyst Intern | June 2019 - June 2021"
   },
   {
     "objectID": "posts/2025-03-17-intro-post/index.html",
@@ -110,5 +110,26 @@
     "title": "About",
     "section": "",
     "text": "Detroit Pistons | Senior Data Scientist | December 2022 - August 2024\nPhiladelphia 76ers | Data Scientist | June 2022 - December 2022\nNebraska Athletics Performance Lab | Sports Analytics Assistant | June 2021 - May 2022\nHudl | Data Analyst Intern | June 2019 - June 2021"
+  },
+  {
+    "objectID": "projects/index.html#act-practice-test-dashboard",
+    "href": "projects/index.html#act-practice-test-dashboard",
+    "title": "Projects",
+    "section": "",
+    "text": "Student performance statistics for Winter 2024 is shown on the Instructors Dashboard found at the given Shiny link below. It features a Student Table showing question-level performance, a Tough Questions portion stressing challenging topics, and a Score Histogram to help one view score distributions. Targeting performance analysis, instructors can select data by Test Period (Pre-Test/Post-Test), Test Subject (English, Math, Science, Reading), and Student Name.\nInstructor’s Dashboard\nStudent’s Dashboard"
+  },
+  {
+    "objectID": "projects/index.html#unl-athletics-department-dashboards",
+    "href": "projects/index.html#unl-athletics-department-dashboards",
+    "title": "Projects",
+    "section": "",
+    "text": "Football Dashbaord Scouting\nMen’s Basketball Scouting\nWomen’s Basketball - Postgame Reports"
+  },
+  {
+    "objectID": "projects/index.html#shiny-apps",
+    "href": "projects/index.html#shiny-apps",
+    "title": "Projects",
+    "section": "",
+    "text": "Student performance statistics is shown on the Instructors Dashboard found at the given Shiny link below. It features a Student Table showing question-level performance, a Tough Questions portion stressing challenging topics, and a Score Histogram to help one view score distributions. Targeting performance analysis, instructors can select data by Test Period (Pre-Test/Post-Test), Test Subject (English, Math, Science, Reading), and Student Name.\nInstructor’s Dashboard\nStudent’s Dashboard\n\n\n\nThe following links of Shiny web applications related completed with Nebraska Athletics Department, specifically football, men’s and women’s basketball. However, accessing these applications requires user authentication, and without valid credentials.\nFootball Dashbaord Scouting\nMen’s Basketball Scouting\nWomen’s Basketball - Postgame Reports"
   }
 ]

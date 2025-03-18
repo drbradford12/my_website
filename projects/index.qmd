@@ -2,32 +2,22 @@
 title: "Projects"
 ---
 
-## Exploring Rural Shrink Smart Through Guided Discovery Dashboards
+## Shiny Apps
 
-<img src="project_banner.png" style="height: 50%; width: 50%; object-fit: contain" onclick="window.open(&apos;https://github.com/drbradford12/SDSS-2022/tree/main;, &apos;blank&apos;);"/>
+### ACT Practice Test Dashboard
 
-<a href="https://jds-online.org/journal/JDS/article/1314/info" target="_blank">JDSS Publication</a> | <a href="https://github.com/drbradford12/SDSS-2022/tree/main" target="_blank">Code</a><br>
+Student performance statistics is shown on the **Instructors Dashboard** found at the given Shiny link below.  It features a *Student Table* showing question-level performance, a *Tough Questions* portion stressing challenging topics, and a *Score Histogram* to help one view score distributions.  Targeting performance analysis, instructors can select data by *Test Period* (Pre-Test/Post-Test), *Test Subject* (English, Math, Science, Reading), and *Student Name*.
 
-Many small and rural places are shrinking. Interactive dashboards are the most common use cases for data visualization and context for exploratory data tools. In our paper, we will explore the specific scope of how dashboards are used in small and rural area to empower novice analysts to make data-driven decisions. Our framework will suggest a number of research directions to better support small and rural places from shrinking using an interactive dashboard design, implementation and use for the every day analyst. 
+[Instructor's Dashboard](https://denisebradfordunl.shinyapps.io/Instructors_Dashboard/)
 
+[Student's Dashboard](https://denisebradfordunl.shinyapps.io/Students/)
 
-------------------------------------------------------------------------
+### UNL Athletics Department Dashboards
 
-## NFL Injury Project (using SEM: Structural Equation Modeling)
+The following links of Shiny web applications related completed with Nebraska Athletics Department, specifically football, men's and women's basketball. However, accessing these applications requires user authentication, and without valid credentials.
 
-<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open(&apos;https://github.com/drbradford12/SEM-NFLinjury-Project;, &apos;blank&apos;);"/>
+[Football Dashbaord Scouting](https://denisebradfordunl.shinyapps.io/nebraska_fb/)
 
-<a href="https://github.com/drbradford12/SEM-NFLinjury-Project" target="_blank">Code</a><br>
+[Men's Basketball Scouting](https://denisebradfordunl.shinyapps.io/mbb_scouting_app/)
 
-This project explores relationships between injury occurrences, player positions, and performance metrics, employing SEM to quantify direct and indirect effects on injuries. The research emphasizes the analytical benefits of SEM for understanding complex injury dynamics in professional football, potentially informing injury prevention and management strategies.
-
-------------------------------------------------------------------------
-
-## Are You My Brother?: Identifying NBA Teams Who Use Their G-League Affiliate Strategically
-
-<img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open(&apos;https://github.com/drbradford12/AreYouMyBrother;, &apos;blank&apos;);"/>
-
-<a href="https://github.com/drbradford12/AreYouMyBrother" target="_blank">Code</a><br>
-
-This study compares the playing styles of NBA teams and their affiliated G-League teams. Specifically, it examines whether the developmental teams follow the same strategic approaches as their parent organizations. The G-League is becoming increasingly important for developing players and finding new ones. Understanding the alignment in playing styles across different levels can help foster organizational cohesion and enhance player growth and readiness.
-
+[Women's Basketball - Postgame Reports](https://denisebradfordunl.shinyapps.io/wbb_postgame_report/)

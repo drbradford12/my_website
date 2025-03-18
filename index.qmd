@@ -4,9 +4,6 @@ about:
   id: about-block
   image: img/profile_pic.jpeg
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://x.com/DeniseRBradford
     - icon: github
       text: Github
       href: https://github.com/drbradford12
@@ -16,6 +13,9 @@ about:
     - icon: envelope
       text: Email
       href: "mailto:mail.deniserbradford@gmail.com"  
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/DeniseRBradford
 ---
 
 ::: {#about-block}
