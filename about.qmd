@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-# More about Denise Bradford
+# More About Me
 
 My academic work emphasizes interactive dashboards, open-source data access, analytical tools catered for sports analytics and community decision-making.  Under a National Science Foundation project on "Smart Decision-Making in Small and Shrinking Rural Areas," I have particularly focused on clean, open-source data creation using web scraping and geospatial analysis.  Studies addressing geographic analytics, predictive modeling, and interactive dashboard design have also been published in peer-reviewed publications.
 
