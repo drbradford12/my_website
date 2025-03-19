@@ -44,5 +44,5 @@ Beyond research, I love to teach and have led seminars on programming in R, stat
 When I'm not busy with work or school, I love watching sports, especially basketball and football. I’m the Communications Chair for the Statistics in Sports Section of the American Statistical Association (ASA) and along with the Finance Chair for Revitalize Our Communities (ROC). You can usually catch me creating cool structures with magnet tiles with my nieces and nephews. 
 
 
-For further information, visit my [GitHub projects](https:// github.com/drbradford12) or view my [resume here](https://drbradford12.github.io/my_website/resume/).
+For further information, visit my [GitHub projects](https://github.com/drbradford12) or view my [resume here](https://drbradford12.github.io/my_website/resume/).
 Please feel free to [contact me](mailto:mail.deniserbradford@gmail.com) if you have any questions or would like to discuss potential projects.
