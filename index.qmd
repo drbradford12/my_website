@@ -1,4 +1,12 @@
 ---
+# listing: 
+#   contents:
+#       - about
+#       - resume
+#   type: table # or `default` or `table` or `grid`; each type has its own set of yaml options to include
+#   sort: "title" # can also sort on more than one field
+#   categories: false 
+  
 about:
   template: jolla
   id: about-block
@@ -24,4 +32,5 @@ about:
 ## Welcome 
 
 My name is Denise Bradford, a doctoral candidate in Statistics at the University of Nebraska-Lincoln, specializing in data science, statistical modeling, and analytics within sports and public health sectors. My professional experience includes roles as a Senior Data Scientist with the Detroit Pistons and Data Scientist with the Philadelphia 76ers, where I've developed sophisticated data pipelines, analytical dashboards, and predictive models to enhance team strategies. Previously, I've served as a Health Statistician at the CDC, contributing innovative methodologies for adolescent health research. I actively publish in statistical journals, contribute to academic conferences, and supports analytics communities through my leadership roles in the American Statistical Association.
+
 

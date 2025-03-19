@@ -1,0 +1,93 @@
+---
+title: "Using RStudio (Posit) as an IDE to automate data pulls to a Database"
+description: "Learning to use RStudio as an IDE"
+author:
+  - name: Denise Bradford
+    url: https://drbradford12.github.io/my_website
+    orcid: 0000-0002-9267-105X
+    affiliation: PhD of Statistics @ University of Nebraska-Lincoln (UNL)
+    affiliation-url: https://statistics.unl.edu/ 
+date: 2025-03-18
+categories: [RMySQL, R, DBI, keyring, ETL] # self-defined categories
+citation: 
+  url: https://drbradford12.github.io/my_website/posts/2025-03-18-SQLusingR-post/
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+While early in my doctoral program, I wanted to learn more about orchestrating data to a database. This interest started while I was a Data Analyst intern at Hudl. I learned a great deal of best practices about SQL but I knew much more about cleaning data in R. My advisor, Dr. Susan VanderPlas, took the time to setup an environment on her local server. You will see here in this example on our shared GitHub Repo our work for an NSF Grant for Rural Shrink Smart in small towns in Iowa.
+
+This [GitHub link](https://github.com/Shrink-Smart-Data-Science/Data-Sources/blob/master/App%20Data%20Prep/Database%20call.R) is an R script titled **"Database call.R"**, which outlines the process of preparing application data for analysis. 
+
+
+Database Connection through RStudio remotely: by connecting to a MySQL database, enabling efficient data retrieval and storage using credentials securely accessed through `keyring`.
+
+```{r eval=FALSE}
+library(tidyverse)
+library(sf)
+library(lubridate)
+library(RMySQL)
+library(DBI)
+library(keyring)
+library(pool)
+
+# --- Initial Setup ------------------------------------------------------------
+pool <- pool::dbPool(
+  drv = RMySQL::MySQL(),
+  dbname = "scc",
+  host = "srvanderplas.com",
+  username = "remote",
+  password = keyring::key_get("MY_SECRET")
+)
+
+```
+
+
+For the sake of the topic of the post, I will summarize the cleaning steps, in which you are encouraged to look at the link to the GitHub Repo above.
+
+> The script systematically cleans and standardizes various datasets across geographic and administrative levels (county, city, school district). It prepares county identifiers and processes individual datasets like childcare providers, fire departments, hospitals, retirement homes, and assisted living facilities, extracting essential variables and geographic coordinates. It also summarizes city-level population data, thoroughly cleans county-level datasets related to social services (child welfare, TANF, Medicaid), economic indicators (sales tax, unemployment insurance), and assessed property values. Finally, the script organizes detailed school-district data, categorizing schools by type and calculating distances from city centers, while also summarizing school district financial information.
+
+
+Lastly, cleaned data frames are systematically written back into the MySQL database, replacing previous versions to ensure updated, tidy, and ready-to-use data sources for downstream analyses.
+
+```{r eval=FALSE}
+
+clean_data_sources <- tibble::tribble(
+  ~name, ~data.frame.name,
+  "assisted_living_clean", assisted_living_clean,
+  "assessed_property_values_clean", assessed_property_values_clean,
+  "child_abuse_county_clean", child_abuse_county_clean,
+  "child_abuse_county_age_group_clean", child_abuse_county_age_group_clean,
+  "child_care_registered_clean", child_care_registered_clean,
+  "child_welfare_assessments_clean", child_welfare_assessments_clean,
+  "ems_clean", ems_clean,
+  "fips_data_clean", fips_data_clean,
+  "fire_dept_clean", fire_dept_clean,
+  "food_stamps_county_clean", food_stamps_county_clean,
+  "hospitals_clean", hospitals_clean,
+  "medicaid_payments_county_clean", medicaid_payments_county_clean,
+  "physical_and_cultural_geographic_features_clean", physical_cultural_geographic_features_clean,
+  "retirement_homes_clean", retirement_homes_clean,
+  "sales_tax_clean", sales_tax_clean,
+  "school_revenue_year_clean", school_revenue_year_clean,
+  "schools_clean", schools_clean,
+  "tanf_county_clean", tanf_county_clean,
+  "unemployment_insurance_payments_clean", unemployment_insurance_payments_clean
+)
+
+
+for (i in seq_along(clean_data_sources$name)){
+
+  dbWriteTable(conn = pool,
+               name = clean_data_sources$name[[i]],
+               value = clean_data_sources$data.frame.name[[i]],
+               row.names=FALSE,
+               overwrite = TRUE) 
+}
+
+```
+
+Through this process, I learned how to systematically prepare and clean diverse datasets by standardizing column names, removing unnecessary variables, and securely managing database connections. I gained practical experience in extracting and formatting geographic coordinates, as well as aggregating data at various administrative scales—ranging from individual-level facilities to city, county, and school-district summaries. Additionally, I developed a clear understanding of structuring complex spatial and social datasets into organized, analysis-ready formats.
+
+This initial task became the start of a love for the ETL (Extract, Transform and Load) process using cloud infrastructure (like Databricks and AWS) and Python.
+
+

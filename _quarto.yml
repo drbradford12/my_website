@@ -1,7 +1,6 @@
 website:
   title: "Denise Bradford’s Website"
   navbar:
-# start of the navigation bar at the top of the website
     pinned: true
 # your sub-pages
     left:
